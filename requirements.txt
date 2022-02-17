@@ -1,0 +1,8 @@
+colorama
+libscca-python
+numpy
+pandas
+pyfiglet
+python-dateutil
+pytz
+six
