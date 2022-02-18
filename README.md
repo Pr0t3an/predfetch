@@ -3,7 +3,7 @@ Python3 Prefetch Parser built using pyscca python bindings for libscca which ena
 
 Acknowledgements: libscca
 
-Copyright (C) 2011-2022, Joachim Metz <joachim.metz@gmail.com>
+Copyright (C) 2011-2022, Joachim Metz <joachim.metz[at]gmail[.]com>
 ```
 ---------------------------------
 Note: this tool and all others in repo - run at your own risk, no warranty implied.
